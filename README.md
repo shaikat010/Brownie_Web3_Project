@@ -7,3 +7,11 @@ The repository contains the coding materials for the web3 project done using the
 ```bash
 npm install --global yarn
 ```
+
+
+```bash
+yarn global add ganache-cli
+ganache-cli
+ganache-cli deterministic
+```
+
