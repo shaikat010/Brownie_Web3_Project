@@ -15,3 +15,15 @@ ganache-cli
 ganache-cli deterministic
 ```
 
+## Alternative way of getting ganache-cli
+```bash
+npm install -g ganache-cli
+```
+
+## How to get Brownie Framework
+```bash
+python3 -m install --userpipx
+python3 -m pip install ensurepath
+pipx install eth-brownie
+pip install eth-brownie
+```
