@@ -4,6 +4,13 @@ The repository contains the coding materials for the web3 project done using the
 # Commands for Running
 ![image](https://user-images.githubusercontent.com/68814937/217435228-54ccbb36-4761-434a-99cb-dffefb941329.png)
 
+#Requirement
+  NodeJs
+  Ganache-cli
+  pip
+  Brownie Framework
+
+
 # How to get Ganache-Cli
 ```bash
 npm install --global yarn
