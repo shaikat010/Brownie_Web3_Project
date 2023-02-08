@@ -33,7 +33,7 @@ pipx install eth-brownie
 pip install eth-brownie
 ```
 
-#Setting up the Brownie Project
+# Setting up the Brownie Project
 ```bash
 brownie init
 ```
